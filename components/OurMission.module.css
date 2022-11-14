@@ -1,0 +1,32 @@
+.container {
+  color: white;
+  padding: 36px 36px 80px 36px;
+  display: flex;
+  background-color: #454545;
+}
+
+.label {
+  width: 100%;
+}
+
+.label > h1 {
+  font-size: 64px;
+  text-align: right;
+}
+
+.label > p {
+  font-size: 36px;
+  text-align: right;
+}
+
+.image {
+  width: 100%;
+}
+
+.image > img {
+  margin: auto;
+  display: block;
+  margin-top: 60px;
+  width: 400px;
+  height: 400px;
+}
